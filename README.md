@@ -1,2 +1,0 @@
-DSClivinglab
-jikoku-jikoku
